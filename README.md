@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marciofbello
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Python and Javascipt
+- 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on development and engineering
 - 📫 How to reach me marcioafbello@hotmail.com
 - 😄 Pronouns: He/Him
